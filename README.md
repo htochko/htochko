@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @htochko
-- 👀 I’m interested in programming for urban planning and architectural design
-- 🌱 I’m currently learning OSM API
-- 💞️ I’m looking to collaborate on R&G projects
+PHP (Symfony)
+JS  (React.js, REDUX, typescript.js)
 - 📫 You can reach me via e-mail: lentochko@gmail.com
